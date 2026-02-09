@@ -20,7 +20,8 @@ It converts a photograph into a visually striking string-art-style reconstructio
 
 ## Results
 Lets take a quick peak how it will look after execution:
-(output_comparison.png)
+<img src="output_comparison.png" alt="Alt text" width="500" height="300">
+
 
 
 ## 🎯 Target Audience
