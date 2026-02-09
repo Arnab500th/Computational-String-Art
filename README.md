@@ -18,6 +18,10 @@ This project demonstrates the application of:
 
 It converts a photograph into a visually striking string-art-style reconstruction using only straight line segments.
 
+## Results
+Lets take a quick peak how it will look after execution:
+(output_comparison.png)
+
 
 ## 🎯 Target Audience
 
