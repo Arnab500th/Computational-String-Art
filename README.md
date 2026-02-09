@@ -50,7 +50,7 @@ This method follows a greedy optimization strategy.
 ### Requirements
 
 ```
-pip install pillow numpy matplotlib scikit-image bresenham
+pip install requirements.txt
 ```
 ## ▶ How to Run
 
