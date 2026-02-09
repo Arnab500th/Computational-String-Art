@@ -1,0 +1,9 @@
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local testing file
+test.py
